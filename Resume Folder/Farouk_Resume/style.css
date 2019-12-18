@@ -1,0 +1,27 @@
+h3 {
+    color: #3dbcc0
+}
+
+h2 {
+    color: #3dbcc0
+}
+
+.background-white {
+    background-color: rgba(231, 238, 216, 0.87);
+}
+
+.background-darkgray {
+    background-color: rgb(233, 246, 247);
+}
+
+.background-gray {
+    background-color: darkslategray;
+}
+
+.location {
+    color: #3dbcc0;
+}
+
+.glyphicon.glyphicon-star{
+    color: #3dbcc0
+}
